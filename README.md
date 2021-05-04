@@ -39,4 +39,4 @@ Add & drop me a line on [LinkedIn](https://www.linkedin.com/in/gusssilva)
 ### :chart_with_upwards_trend: My Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusssilva&layout=compact&theme=vue)](https://github.com/gusssilva/github-readme-stats)
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gusssilva&show_icons=true&theme=vue&hide=stars)](https://github.com/gusssilva/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gusssilva&show_icons=true&theme=vue)](https://github.com/gusssilva/github-readme-stats)
