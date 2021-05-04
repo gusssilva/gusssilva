@@ -4,7 +4,7 @@
 
 I am passionate about writing. 
 A lot. 
-I started with articles, features and a book as a journalist, an occupation I exercised over the past 14 years.
+I started with articles, [features](https://rollingstone.uol.com.br/edicao/50/ruanda-entre-o-ceu-e-o-inferno/) and a [book](https://www.amazon.com.br/Rosa-Pó-Histórias-Bósnia-Pós-Genoc%C3%ADdio/dp/8563876082/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&dchild=1&keywords=da+rosa+ao+pó&qid=1620154911&s=books&sr=1-1) as a journalist, an occupation I exercised over the past 14 years.
 Now life has taken my to the coding path - which at the end of the day is also all about writing clearly and concisely, isn't it? 
 
 Combining my excitement for reading and researching along with my newfound passion of coding I turned the words written by Sandi Metz in ***Practial Object-Oriented Design in Ruby*** on programmers as a sort of mantra to live by: 
