@@ -15,9 +15,9 @@ Combining my excitement for reading and researching along with my newfound passi
  * :books: I hold a MA in International Relations from King's College London and a Journalism BA from PUC-SP
  * :rocket: I'm a [Le Wagon](https://www.lewagon.com/) alumni *(i.e.: I dive into the unknown with intensity and get s**t done)*
  * :book: I strongly believe practice makes perfect *(yet treat your text editor **and** books with kindness)* 
- * :pushpin: Aside from taking over the world (*Pinky and the Brain feelings*), my goal is to become a better full stack developer
+ * :pushpin: Aside from taking over the world (*Pinky and the Brain feelings*), my goal is to become a better backend developer
  * :guitar: I play the guitar *(proud owner of an Ibanez JS900 signed by Joe Satriani himself after I interviewed him!)*
- * :cocktail: I like to drink. A lot *(meaning I'm a beer sommelier and also a cocktail enthusiast - drink less and drink better, my friends!)* 
+ * :cocktail: I like to drink. A lot *(meaning I'm a beer sommelier and also a cocktail enthusiast - drink less and drink better!)* 
  
  ### Tech Stacks *(so far...)*
  
